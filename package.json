@@ -1,0 +1,33 @@
+{
+  "name": "trangs-web-thong-ke",
+  "version": "1.0.0",
+  "description": "Một ứng dụng web đơn giản để thống kê dữ liệu và hiển thị biểu đồ bằng Vue.js.",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^2.6.12",
+    "vue-router": "^3.5.3",
+    "vuetify": "^2.5.10",
+    "axios": "^0.21.1",
+    "chart.js": "^2.9.4"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.15"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  }
+}
