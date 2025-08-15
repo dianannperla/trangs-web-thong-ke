@@ -1,7 +1,7 @@
 {
   "name": "trangs-web-thong-ke",
   "version": "1.0.0",
-  "description": "Một ứng dụng web đơn giản để thống kê dữ liệu và hiển thị biểu đồ bằng Vue.js.",
+  "description": "A simple web application for data statistics and chart display using Vue.js.",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
